@@ -5,6 +5,11 @@
 ![Aristides GitHub stats](https://github-readme-stats.vercel.app/api?username=Aristides-Matoca&show_icons=true&theme=onedark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aristides-Matoca&layout=compact&theme=onedark)
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aristides-Matoca&show_icons=true&theme=onedark&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aristides-Matoca&layout=compact&theme=onedark" />
+</div>
+
 ## Tecnologias que eu domino
 
 <div style="display: inline_block">
