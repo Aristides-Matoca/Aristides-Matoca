@@ -4,6 +4,7 @@
 
 ![Aristides GitHub stats](https://github-readme-stats.vercel.app/api?username=Aristides-Matoca&show_icons=true&theme=onedark&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aristides-Matoca)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aristides-Matoca&layout=compact)
 
 ## Tecnologias que eu domino
 
