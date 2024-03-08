@@ -3,7 +3,7 @@
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aristides-matoca-065247218/)
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aristides-Matoca&show_icons=true&theme=onedark&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aristides-Matoca&show_icons=true&theme=onedark&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aristides-Matoca&layout=compact&theme=onedark" />
 </div>
 
