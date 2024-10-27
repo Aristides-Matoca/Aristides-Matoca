@@ -5,7 +5,7 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aristides-Matoca&show_icons=true&theme=onedark&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aristides-Matoca&layout=compact&theme=onedark" />
-</div>
+</div> 
 
 ## Tecnologias que eu domino
 
